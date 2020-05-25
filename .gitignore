@@ -1,3 +1,8 @@
 *.caffemodel
 *.tsv
 /snap
+snap/
+data/*
+!data/gqa/
+!data/vqa/
+!data/lxmert/all_ans.json
